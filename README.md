@@ -5,7 +5,7 @@ community. :^)
 
 ## License
 
-By default, all artwork in the repository is licensed under the 
+All artwork in the repository is licensed under the 
 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license unless
 otherwise noted. Please check whether the artwork you wish to use has a specific
 license. Artwork authors are listed in
