@@ -24,3 +24,8 @@ pieces of artwork in this repository.
 - [`images/serenity_iso.png`](images/serenity_iso.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/serenity_logo.png`](images/serenity_logo.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`sounds/The_Serenity_Sound.ogg`](sounds/The_Serenity_Sound.ogg) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
+- [`music/kleines Filmröllchen - Noise In Tune.flac`](music/kleines%20Filmröllchen%20-%20Noise%20In%20Tune.flac) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
+- [`music/kleines Filmröllchen - Happy Little Slider (Demo).mp3`](music/kleines%20Filmröllchen%20-%20Happy%20Little%20Slider%20(Demo).mp3) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
+- [`music/kleines Filmröllchen - Just FLACing Around.flac`](music/kleines%20Filmröllchen%20-%20Just%20FLACing%20Around.flac) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
+- [`music/kleines Filmröllchen - Bitter Rain (Live Performance).mp3`](music/kleines%20Filmröllchen%20-%20Bitter%20Rain%20(Live%20Performance).mp3) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
+- [`music/kleines Filmröllchen - Bitter Rain.flac`](music/kleines%20Filmröllchen%20-%20Bitter%20Rain.flac) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
