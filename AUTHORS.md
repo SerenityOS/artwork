@@ -23,6 +23,10 @@ pieces of artwork in this repository.
 - [`images/serenity-xp.png`](images/serenity-xp.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/serenity_iso.png`](images/serenity_iso.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/serenity_logo.png`](images/serenity_logo.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
+- [`images/ladyball_variations/spikey_blue_accent.png`](images/ladyball_variations/spikey_blue_accent.png) - [@MacDue](https://github.com/MacDue) - CC-BY-SA-4.0
+- [`images/ladyball_variations/with_horn_blue.png`](images/ladyball_variations/with_horn_blue.png) - [@MacDue](https://github.com/MacDue) - CC-BY-SA-4.0
+- [`images/ladyball_variations/with_horn_red.png`](images/ladyball_variations/with_horn_red.png) - [@MacDue](https://github.com/MacDue) - CC-BY-SA-4.0
+- [`images/ladyball_variations/with_yak.png`](images/ladyball_variations/with_yak.png) - [@MacDue](https://github.com/MacDue) - CC-BY-SA-4.0
 - [`sounds/The_Serenity_Sound.ogg`](sounds/The_Serenity_Sound.ogg) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`music/kleines Filmröllchen - Noise In Tune.flac`](music/kleines%20Filmröllchen%20-%20Noise%20In%20Tune.flac) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
 - [`music/kleines Filmröllchen - Happy Little Slider (Demo).mp3`](music/kleines%20Filmröllchen%20-%20Happy%20Little%20Slider%20(Demo).mp3) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
