@@ -17,6 +17,7 @@ pieces of artwork in this repository.
 - [`images/emotes/yakminus.png`](images/emotes/yakminus.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/emotes/yakplus.png`](images/emotes/yakplus.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/emotes/yaksplode.png`](images/emotes/yaksplode.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
+- [`images/emotes/yowl.png`](images/emotes/yowl.png) - [@MacDue](https://github.com/MacDue) - CC-BY-SA-4.0
 - [`images/libjs.png`](images/libjs.png) - [@linusg](https://github.com/linusg)
 - [`images/libjs-favicon.png`](images/libjs-favicon.png) - [@linusg](https://github.com/linusg)
 - [`images/looking_for_files.png`](images/looking_for_files.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
