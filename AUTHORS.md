@@ -41,3 +41,5 @@ pieces of artwork in this repository.
 - [`music/kleines Filmröllchen - Just FLACing Around.flac`](music/kleines%20Filmröllchen%20-%20Just%20FLACing%20Around.flac) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
 - [`music/kleines Filmröllchen - Bitter Rain (Live Performance).mp3`](music/kleines%20Filmröllchen%20-%20Bitter%20Rain%20(Live%20Performance).mp3) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
 - [`music/kleines Filmröllchen - Bitter Rain.flac`](music/kleines%20Filmröllchen%20-%20Bitter%20Rain.flac) - [@kleinesfilmroellchen](https://github.com/kleinesfilmroellchen)
+- [`videos/retro_serenity_lava.mp4`](videos/retro_serenity_lava.mp4) - [@xslendix](https://github.com/xslendix)
+
