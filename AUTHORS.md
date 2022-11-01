@@ -5,6 +5,7 @@ pieces of artwork in this repository.
 
 ---
 
+- [`images/ci_flakes/ci_flakes.png`](images/ci_flakes/ci_flakes.png) - [@sin-ack](https://github.com/sin-ack)
 - [`images/ci_flakes/oops_all_red.jpg`](images/ci_flakes/oops_all_red.jpg) - [@networkException](https://github.com/networkException), [@niklasschroetler](https://github.com/niklasschroetler)
 - [`images/emotes/caret.png`](images/emotes/caret.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/emotes/codeyak.png`](images/emotes/codeyak.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
