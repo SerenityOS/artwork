@@ -15,6 +15,7 @@ pieces of artwork in this repository.
 - [`images/emotes/merge.png`](images/emotes/merge.png) - [@linusg](https://github.com/linusg)
 - [`images/emotes/ninjamerge.png`](images/emotes/ninjamerge.png) - [@linusg](https://github.com/linusg)
 - [`images/emotes/sadcaret.png`](images/emotes/sadcaret.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
+- [`images/emotes/shippie.svg`](images/emotes/shippie.svg) - [@timschumi](https://github.com/timschumi) - CC-BY-SA-4.0
 - [`images/emotes/skeleyak.png`](images/emotes/skelebison.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/emotes/yakfused.png`](images/emotes/yakfused.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
 - [`images/emotes/yakminus.png`](images/emotes/yakminus.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
