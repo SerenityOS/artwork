@@ -25,6 +25,7 @@ pieces of artwork in this repository.
 - [`images/ladyball_vector/geometric-reference.svg`](images/ladyball_vector/geometric-reference.svg) [@frhun](https://github.com/frhun) - CC-BY-SA-4.0
 - [`images/ladyball_vector/plain.svg`](images/ladyball_vector/plain.svg) [@frhun](https://github.com/frhun) - CC-BY-SA-4.0
 - [`images/ladyball_vector/shaded.svg`](images/shaded.svg) [@frhun](https://github.com/frhun) - CC-BY-SA-4.0
+- [`images/ladyball_38c3_pixel.png`](images/ladyball_38c3_pixel.png) - [@multisn8@catgirl.cloud](https://mastodon.catgirl.cloud/@multisn8) - CC-BY-SA-4.0
 - [`images/libjs.png`](images/libjs.png) - [@linusg](https://github.com/linusg)
 - [`images/libjs-favicon.png`](images/libjs-favicon.png) - [@linusg](https://github.com/linusg)
 - [`images/looking_for_files.png`](images/looking_for_files.png) - [@sin-ack](https://github.com/sin-ack) - CC-BY-SA-4.0
